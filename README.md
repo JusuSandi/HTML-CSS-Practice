@@ -1,4 +1,4 @@
-# Portfolio README
+# Simple PortForlio
 
 Welcome to my portfolio!
 
@@ -6,8 +6,10 @@ Welcome to my portfolio!
 
 ## I'm Roggers Anguzu, a passionate computer Scientistwith expertise in Web Development, Networking. 
 
-![Screenshot 2024-04-14 163235](https://github.com/netforgetechnologies/HTML-CSS/assets/141458053/afaf4ebe-7975-4d8b-a071-4568b497f345)
-![Screenshot 2024-04-14 163317](https://github.com/netforgetechnologies/HTML-CSS/assets/141458053/25bc5835-e9ec-4870-8b81-208e8173fb2f)
+![image](https://github.com/netforgetechnologies/HTML-CSS/assets/141458053/6b33ab65-2455-4ff9-a00c-fba81aa0a9b6)
+
+![image](https://github.com/netforgetechnologies/HTML-CSS/assets/141458053/de386dcf-3404-4e34-9d95-8e1ec73b305c)
+
 
 # Features
 
