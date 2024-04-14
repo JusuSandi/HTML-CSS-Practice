@@ -33,6 +33,6 @@ Welcome to my portfolio!
 
 ## Feedback
 
-If you have any feedback, suggestions, or inquiries, feel free to reach out to me at [Your Email Address]. I appreciate your input and look forward to hearing from you!
+If you have any feedback, suggestions, or inquiries, feel free to reach out to me. I appreciate your input and look forward to hearing from you!
 
 Thank you for visiting my portfolio!
